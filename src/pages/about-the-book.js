@@ -56,7 +56,7 @@ const abouttheauthor= (props) =>{
 									</p>
 
 									<p>
-										Jeffery Baker is joining in this book to provide the additional perspective that will make it much richer in terms of a broader knowledge of field work. Both Nathan and Jeff have entrepreneurial backgrounds and seek to foster a better understanding of the power that can come from true service-oriented approach.
+										Jeffrey Baker is joining in this book to provide the additional perspective that will make it much richer in terms of a broader knowledge of field work. Both Nathan and Jeff have entrepreneurial backgrounds and seek to foster a better understanding of the power that can come from true service-oriented approach.
 									</p>
 
 									<p>

@@ -39,6 +39,11 @@ const abouttheauthor= (props) =>{
 					 				</span>
 					 			</div>
 
+								 {/* <span className="author-name">
+									<span className="author-span-ft">Author |  Writer </span>
+									Nathan W. McKie, Sr.
+								</span> */}
+
 					 			<h4>
 								 	"The Dignity of Service sets forth the rationale for taking the approach of helping people make money so they can have a path out of poverty."
 					 			</h4>
