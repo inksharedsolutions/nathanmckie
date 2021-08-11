@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Navlist from './links';
+//import Navlist from './links';
 import MainLogo from '../assets/img/icon-logo/logo.png';
 
 class Navigation extends React.Component {
@@ -61,7 +61,7 @@ class Navigation extends React.Component {
 						<div className="grid-block-child align-right" id="main-navigation">
 							<li><Link to="/">Home</Link></li>
 							<li><Link to="/about-the-author">About the Author</Link></li>
-							<li><Link to="/about-the-book">About the Book</Link></li>
+							<li><Link to="/about-the-book">Books</Link></li>
 							<li><Link to="/contact">Contact</Link></li>
 						</div>
 					</div>

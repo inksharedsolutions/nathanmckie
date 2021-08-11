@@ -1,5 +1,5 @@
 import React, {useState, useEffect } from 'react'
-import {Link} from 'gatsby'
+//import {Link} from 'gatsby'
 
 
 /*Icons*/
@@ -8,11 +8,13 @@ import barnes from '../assets/img/icon-logo/Barnes-and-noble-booksellers-logo.pn
 import stratton from '../assets/img/icon-logo/stratton-logo.png'
 import bam from '../assets/img/icon-logo/bam.png'
 
-import Slider from "react-slick";
+//import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import Book2 from '../assets/img/books/book.png'
+import Book3 from '../assets/img/books/the-dignity-of-trust.png'
+
 
 
 const Mainbottom = () =>{
@@ -28,13 +30,13 @@ const Mainbottom = () =>{
     }, [mobState]); 
 
 
-    var settings = {
-        dots: true,
-        infinite: true,
-        speed: 500,
-        slidesToShow: (mobState) ? 1 : 2,
-        slidesToScroll: 1,
-     };
+    // var settings = {
+    //     dots: true,
+    //     infinite: true,
+    //     speed: 500,
+    //     slidesToShow: (mobState) ? 1 : 2,
+    //     slidesToScroll: 1,
+    //  };
 
 
 
@@ -43,15 +45,14 @@ const Mainbottom = () =>{
 		<section className="main-bottom-section">
 			 <div className="container">
 			 	<div className="main-bottom-wrapper">
-			 		<h1>Latest Book</h1>
+			 		<h1>Featured Books</h1>
 
 
             
                     <div className="book-wrapper-slider">
                         <img src={Book2} alt="books"/>
+						<img src={Book3} alt="books"/>
                     </div>
-
-       
 					
 			 	</div>
 			</div>

@@ -3,7 +3,7 @@ import {Link} from "gatsby"
 import Layout from "../components/layout"
 import Main from '../components/main'
 import MainBottom  from '../components/main-bottom'
-import Newsletter  from '../components/newsletter'
+//import Newsletter  from '../components/newsletter'
 import Banner from "../components/banner"
 import { Helmet } from "react-helmet"
 

@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from "../components/layout"
 import Banner from "../components/banner"
 import Book from '../assets/img/books/book.png'
+import Book1 from '../assets/img/books/the-dignity-of-trust.png'
 import { DiscussionEmbed } from "disqus-react"
 import { Helmet } from "react-helmet"
 
@@ -18,8 +19,7 @@ const abouttheauthor= (props) =>{
 		<>
 			<span className="banr-tagline-fx">Nathan W. McKie, Sr.</span>
 			<h1 className="banr-header-fx">
-				About the
-				<span className="banr-spn-highlight" id="span-non-front" >Book</span>
+				<span className="banr-spn-highlight" id="span-non-front" >Books</span>
 			</h1>
 		</>
 	)
@@ -81,6 +81,42 @@ const abouttheauthor= (props) =>{
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Dignity-Service-Nathan-W-McKie/dp/164895250X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1608673683&sr=8-1">Amazon</a></li>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/the-dignity-of-service-nathan-w-mckie/1138446337?ean=9781648952500">Barnes & Noble </a></li>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Dignity-Service/Nathan-W-McKie/9781648952500?id=8238323095674">Books A Million</a></li>
+								</nav>
+							</div>
+						</div>
+
+						<div className="columns">
+						
+							<div className="column">
+								<div className="bookImgContainer">
+									<img id="you-can-too" alt="main-book" src={Book1} />
+								</div>
+							</div>
+							
+							<div className="column">
+								<section className="contentBook">
+
+									<div className="title-wrapper">
+										 <h1>The Dignity of Trust</h1>
+									 	<p>Building Community through Reliability and Truth</p>
+								    </div>
+
+									<p>
+										Any activities that involve associations between people require that there be an acceptable level of trust.  e ability to make accurate assessments about the reliability of others will determine, over time, how trustworthy they are. While it takes a long time to build trust, it takes even longer if trust is lost.  is book is designed to aid in building and maintaining healthy relationships. In doing this, we investigate several ways that trust is betrayed. 
+									</p>
+
+									<p>
+										Nathan W. McKie, Sr. - Nathan brings a rich experience in dealing with people in various career and personal environments. His father had him selling light bulbs door-to-door which exposed him to the challenges of cold-call selling. He worked beside farm hands and was very active in the 4-H Club even winning a National contest. In college, he worked as camp counselor and sold formal favors to sororities and fraternities. After graduating college, he went into the Air Force and completed a four-year stint, reaching the rank of Captain and receiving the Air Force Commendation Medal.
+									</p>
+
+									<p>
+										In 2016, after a career of entrepreneurial ventures, corporate managerial positions, and volunteer service, he founded a non-profi t venture designed to foster social entrepreneurship. By creating solid relationships and building trust, it is believed that a sense of community can be achieved in urban and rural settings.  e Dignity of Profi t Creating Community through Entrepreneurship (2018) and  e Dignity of Service:  e Power of Social Entrepreneurship (2020) were published in order to inform readers about this project and to encourage them to become involved in making a diff erence.
+									</p>
+
+								</section>
+
+								<nav className="booklinkBlocks">
+								    <span>Book links coming Soon...</span>
 								</nav>
 							</div>
 						</div>

@@ -185,12 +185,14 @@
 
 
 .book-wrapper-slider{
-    background: #fff;
+    display: grid;
+    grid-template-columns: auto auto;
+    //background: #fff;
     padding: 3%;
-    box-shadow: -1px 1px 28px 4px #f1f1f1;
+    //box-shadow: -1px 1px 28px 4px #f1f1f1;
     border-radius: 50px;
     margin: 2% auto;
-    max-width: 500px;
+    max-width: 1000px;
 }
 
 /*Slick Custom*/
