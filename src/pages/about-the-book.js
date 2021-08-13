@@ -102,7 +102,7 @@ const abouttheauthor= (props) =>{
 								    </div>
 
 									<p>
-										Any activities that involve associations between people require that there be an acceptable level of trust.  e ability to make accurate assessments about the reliability of others will determine, over time, how trustworthy they are. While it takes a long time to build trust, it takes even longer if trust is lost.  is book is designed to aid in building and maintaining healthy relationships. In doing this, we investigate several ways that trust is betrayed. 
+										Any activities that involve associations between people require that there be an acceptable level of trust. The ability to make accurate assessments about the reliability of others will determine, over time, how trustworthy they are. While it takes a long time to build trust, it takes even longer if trust is lost. This book is designed to aid in building and maintaining healthy relationships. In doing this, we investigate several ways that trust is betrayed.
 									</p>
 
 									<p>
@@ -110,7 +110,7 @@ const abouttheauthor= (props) =>{
 									</p>
 
 									<p>
-										In 2016, after a career of entrepreneurial ventures, corporate managerial positions, and volunteer service, he founded a non-profi t venture designed to foster social entrepreneurship. By creating solid relationships and building trust, it is believed that a sense of community can be achieved in urban and rural settings.  e Dignity of Profi t Creating Community through Entrepreneurship (2018) and  e Dignity of Service:  e Power of Social Entrepreneurship (2020) were published in order to inform readers about this project and to encourage them to become involved in making a diff erence.
+										In 2016, after a career of entrepreneurial ventures, corporate managerial positions, and volunteer service, he founded a non-profit venture designed to foster social entrepreneurship. By creating solid relationships and building trust, it is believed that a sense of community can be achieved in urban and rural settings. The Dignity of Profit Creating Community through Entrepreneurship (2018) and The Dignity of Service: The Power of Social Entrepreneurship (2020) were published in order to inform readers about this project and to encourage them to become involved in making a difference.
 									</p>
 
 								</section>
